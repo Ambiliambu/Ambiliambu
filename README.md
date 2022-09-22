@@ -4,6 +4,6 @@
 <h5 align="center">A passionate MERN stack developer from India</h5><br/>
 
 <p align="left">- 🔭 I’m currently working on Tuition Center Management application</p>
-<p align="left">- 📫 How to reach me:</p>[ambilipakhd@gmail.com](ambilipakhd@gmail.com)
+<p align="left">- 📫 How to reach me:</p>[Email Address](ambilipakhd@gmail.com)
 <p align="left">- 👨‍💻 All of my projects are available at https://github.com/Ambiliambu</p>  
 
