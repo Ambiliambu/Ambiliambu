@@ -1,4 +1,3 @@
-### Hi there
 
  <h3 align="center"> Hi 👋, I'm Ambili </h3>  
  
